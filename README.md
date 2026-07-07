@@ -1,8 +1,12 @@
 # Hi, I'm Rahul D Yadav 👋
 
 <p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/rahuldyadav/)"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:rahuldy143@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rahuldyadav/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rahuldy143@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
 </p>
 
 ### 🚀 Professional Summary
@@ -16,7 +20,7 @@ I specialize in architecting modular using the **JavaScript frameworks** (Node.j
   <tr>
     <td valign="top" width="50%">
       <h4>Backend & eCommerce</h4>
-      <img src="https://skillicons.dev" /><br/><br/>
+      <br/>
       <ul>
         <li><b>Frameworks:</b> Adobe Commerce (Magento Cloud), Laravel, Drupal</li>
         <li><b>Runtimes:</b> Node.js (ExpressJS), Python (Basic)</li>
@@ -25,7 +29,7 @@ I specialize in architecting modular using the **JavaScript frameworks** (Node.j
     </td>
     <td valign="top" width="50%">
       <h4>Frontend Technologies</h4>
-      <img src="https://skillicons.dev" /><br/><br/>
+      <br/>
       <ul>
         <li><b>Frameworks & Libs:</b> ReactJS, RequireJS, KnockoutJS, jQuery</li>
         <li><b>Core Web:</b> HTML5, CSS3, AJAX, Responsive UI Design</li>
@@ -35,7 +39,7 @@ I specialize in architecting modular using the **JavaScript frameworks** (Node.j
   <tr>
     <td valign="top" width="50%">
       <h4>Cloud, DevOps & Infra</h4>
-      <img src="https://skillicons.dev" /><br/><br/>
+      <br/>
       <ul>
         <li><b>Cloud & Actions:</b> AWS, Jenkins, GitHub Actions</li>
         <li><b>Containers & Monitoring:</b> Docker, New Relic</li>
@@ -44,7 +48,7 @@ I specialize in architecting modular using the **JavaScript frameworks** (Node.j
     </td>
     <td valign="top" width="50%">
       <h4>Databases & Messaging</h4>
-      <img src="https://skillicons.dev" /><br/><br/>
+      <br/>
       <ul>
         <li><b>Databases:</b> MySQL, MariaDB, MongoDB, PostgreSQL</li>
         <li><b>APIs:</b> REST APIs, GraphQL, Webhooks (Facebook)</li>
