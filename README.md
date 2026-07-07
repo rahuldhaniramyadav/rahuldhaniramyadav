@@ -1,18 +1,9 @@
 # Hi, I'm Rahul D Yadav 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahuldyadav/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rahuldy143@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
-
 ### 🚀 Professional Summary
 
 I am a **Senior Software Engineer** with **8+ years of professional experience** delivering clean, efficient, high-performance, scalable applications and enterprise-grade eCommerce solutions. 
-I specialize in architecting modular using the **JavaScript frameworks** (Node.js, ReactJS)** and **PHP ecosystem** (Adobe Commerce/Magento, Laravel, Drupal) backed by robust **Cloud infrastructure**.
+I specialize in architecting modular using the **JavaScript frameworks** (Node.js, ReactJS) and **PHP ecosystem** (Adobe Commerce/Magento, Laravel, Drupal) backed by robust **Cloud infrastructure**.
 
 ### 💻 Core Tech Stack
 
@@ -65,4 +56,12 @@ I specialize in architecting modular using the **JavaScript frameworks** (Node.j
 * **Systems Integration:** Seamlessly integrated real-time webhook layers, Apache Kafka pipelines, and custom CRM sync schedules with external suites like Salesforce.
 * **Enterprise Features:** Engineered high-security checkout layers, multi-coupon rewards processing mechanisms, custom B2B corporate platforms, and automated inventory sync architectures.
 
-...
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahuldyadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:rahuldy143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
